@@ -1,0 +1,34 @@
+{
+  "bands": [
+    {
+      "name": "tipper",
+      "description": [
+        {
+          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
+          "title": "Jettison Mind Hatch",
+          "information": "Lorem"
+        }
+      ]
+    },
+    {
+      "name": "kll-smth",
+      "description": [
+        {
+          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
+          "title": "Vivacious",
+          "information": "lorem"
+        }
+      ]
+    },
+    {
+      "name": "kursa",
+      "description": [
+        {
+          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
+          "title": "H.I.T.E.K. L.O.F.I. (Part 3)",
+          "information": "lorem"
+        }
+      ]
+    }
+  ]
+}

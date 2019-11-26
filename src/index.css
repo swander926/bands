@@ -8,5 +8,100 @@ html {
 
 body {
   margin: 0;
+  margin-top: 3rem;
   min-height: 100%;
+  background-image: url('./images/galaxypaper.jpg');
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.navContainer {
+  margin-bottom: 2rem;
+}
+
+.navContainer > ul {
+  display: flex;
+  flex-style: row;
+  justify-content: center;
+  list-style: none;
+}
+
+.navContainer > ul > li {
+  color: white;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  font-size: 1.5rem;
+}
+
+.navContainer > ul > li > a {
+  color: white;
+}
+
+.homeContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.homeCSS {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  background-color: orange;
+  color: white;
+  opacity: 0.8;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.tipperContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.tipperCSS {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  background-color: green;
+  color: white;
+  opacity: 0.8;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.kllsmthContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.kllsmthCSS {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  background-color: blue;
+  color: white;
+  opacity: 0.8;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.kursaContainer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.kursaCSS {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  background-color: red;
+  color: white;
+  opacity: 0.8;
+  border-radius: 20px 20px 20px 20px;
 }
