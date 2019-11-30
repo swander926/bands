@@ -2,33 +2,30 @@
   "bands": [
     {
       "name": "tipper",
-      "description": [
-        {
-          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
-          "title": "Jettison Mind Hatch",
-          "information": "Lorem"
-        }
-      ]
+      "description": {
+        "image": "/images/tipperlogo.jpg",
+        "albumimage": "/images/jettisonmindhatch.jpg",
+        "title": "Jettison Mind Hatch",
+        "information": "12 Track LP. Released May 15, 2019."
+      }
     },
     {
       "name": "kll-smth",
-      "description": [
-        {
-          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
-          "title": "Vivacious",
-          "information": "lorem"
-        }
-      ]
+      "description": {
+        "image": "/images/kllsmthlogo.jpg",
+        "albumimage": "/images/vivacious.jpg",
+        "title": "Vivacious",
+        "information": "3 Track EP. Released February 4, 2019."
+      }
     },
     {
       "name": "kursa",
-      "description": [
-        {
-          "image": "https://i.ibb.co/9gZ558q/linkinpark.jpg",
-          "title": "H.I.T.E.K. L.O.F.I. (Part 3)",
-          "information": "lorem"
-        }
-      ]
+      "description": {
+        "image": "/images/kursalogo.jpg",
+        "albumimage": "/images/hiteklofipart3.jpg",
+        "title": "H.I.T.E.K. L.O.F.I. (Part 3)",
+        "information": "10 Track EP. Released November 4, 2019."
+      }
     }
   ]
 }
